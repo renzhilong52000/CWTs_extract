@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="extract"
+  id="myeclipse.1600937971603"
+  context-root="/extract"
+  j2ee-spec="5.0"
+  archive="extract.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
